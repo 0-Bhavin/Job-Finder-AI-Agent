@@ -55,7 +55,7 @@ job-search-ai/
 
 - Visit [Google AI Studio](https://makersuite.google.com/app)
 - Create a project and generate a Gemini API key
-- Replace `GENAI_API_KEY` in `app.py` with your key.
+- Replace `GENAI_API_KEY` in `app.py` with your key
 
 ---
 
